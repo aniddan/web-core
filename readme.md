@@ -45,6 +45,8 @@ import fetch from 'web-js/library/fetch';
     - Window.getComputedStyle()
  - [Iddan Aharonson][@aniddan]
     - Document.elementsFromPoint()
+ - [Evan Krambuhl][@krambuhl]
+    - CustomEvent
  - [GitHub][GitHub]
     - [Fetch][github fetch]
  - [Google][Google]
@@ -53,6 +55,7 @@ import fetch from 'web-js/library/fetch';
 
 [@strodoff]: https://github.com/strodoff
 [@aniddan]: https://github.com/aniddan
+[@krambuhl]: https://github.com/krambuhl
 [GitHub]: https://github.com
 [github fetch]: https://github.github.io/fetch/
 [Cybozu Labs]: http://labs.cybozu.co.jp/en/

@@ -1,6 +1,6 @@
 {
   "name": "web-core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "WebAPI Standard Library",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,8 @@
   "dependencies": {
       "whatwg-fetch": "",
       "fetch-ponyfill": "",
-      "wgxpath": ""
+      "wgxpath": "",
+      "custom-event-polyfill": ""
   },
   "devDependencies": {
       "eslint-config-infashion": ""
