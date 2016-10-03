@@ -1,5 +1,5 @@
 {
-  "name": "web-js",
+  "name": "web-core",
   "version": "0.0.1",
   "description": "WebAPI Standard Library",
   "main": "index.js",
@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Iddan Aharonson",
+  "repository":   {
+      "type" : "git",
+      "url" : "https://github.com/aniddan/web-core.git"
+  },
   "license": "MIT",
   "dependencies": {
       "whatwg-fetch": "",
