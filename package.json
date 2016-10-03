@@ -1,0 +1,19 @@
+{
+  "name": "web-js",
+  "version": "0.0.1",
+  "description": "WebAPI Standard Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iddan Aharonson",
+  "license": "MIT",
+  "dependencies": {
+      "whatwg-fetch": "",
+      "fetch-ponyfill": "",
+      "wgxpath": ""
+  },
+  "devDependencies": {
+      "eslint-config-infashion": ""
+  }
+}
