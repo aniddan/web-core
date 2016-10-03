@@ -1,4 +1,4 @@
-# web-js
+# web-core
 
 Modular standard library for JavaScript WebAPIs. Includes polyfills for Fetch API, Document.elementsFromPoint(), Window.getComputedStyle(), Element.matches(), XPath and more. You can require only needed features or use it without global namespace pollution.
 
